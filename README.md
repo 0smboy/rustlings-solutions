@@ -2,6 +2,9 @@ See: https://github.com/rust-lang/rustlings
 
 <img width="691" alt="0smboy 2022-07-21 18 43 00" src="https://user-images.githubusercontent.com/20849756/180195132-7bd1e0a9-c211-4995-884e-43ae1cba9760.jpg">
 
+# rustlings 🦀❤️
+
+```
 ❯ rustlings verify
 ✅ Successfully ran exercises/variables/variables1.rs!
 ✅ Successfully ran exercises/variables/variables2.rs!
@@ -81,3 +84,4 @@ See: https://github.com/rust-lang/rustlings
 ✅ Successfully tested exercises/conversions/try_from_into.rs
 ✅ Successfully tested exercises/conversions/as_ref_mut.rs
 ✅ Successfully tested exercises/conversions/from_str.rs
+```
